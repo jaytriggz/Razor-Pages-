@@ -28,3 +28,4 @@ C:\Users\arotr\Desktop\awesome\MyC# Journey\razor-pages\obj\Debug\net8.0\refint\
 C:\Users\arotr\Desktop\awesome\MyC# Journey\razor-pages\obj\Debug\net8.0\razor-pages.pdb
 C:\Users\arotr\Desktop\awesome\MyC# Journey\razor-pages\obj\Debug\net8.0\razor-pages.genruntimeconfig.cache
 C:\Users\arotr\Desktop\awesome\MyC# Journey\razor-pages\obj\Debug\net8.0\ref\razor-pages.dll
+C:\Users\arotr\Desktop\awesome\MyC# Journey\razor-pages\obj\Debug\net8.0\razor-pages.sourcelink.json
