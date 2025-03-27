@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    ViewData["WelcomeMessage"] = "Hey fellas, Welcome to my First Razor Pages App!";
+
+    var thanksMessage = "Fuck Yall! ";
+
+    string Greeting()
+    {
+       return ViewData["WelcomeMessage"] + " " + thanksMessage; 
+    }
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@ViewData["WelcomeMessage"]</p>
+    <h3>@thanksMessage</h3>
+    <p>@Greeting()</p>
+    
+</div>
